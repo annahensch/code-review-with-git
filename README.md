@@ -16,6 +16,8 @@ Danielle is a computational cognitive scientist at the University of New South W
 ## Intro to git - the unloved sibling of code review
 According to Danielle "learning git is one of the hardest steps. We all go through this stage... and that's OKAY!" (see link to slides above).  
 
+![xkcd comic](https://imgs.xkcd.com/comics/git.png)  
+
 Indeed, git is hard, but the feeling of finally using git commands in the shell (the terminal on your PC or Mac) is unlike any other coding win I have ever experienced! And you can feel the joy, too!  
 
 Having been through a lot of online resources, we've found the following YouTube tutorial most helpful for figuring out using Git Bash (that is using git via the shell):
