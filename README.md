@@ -1,6 +1,6 @@
 ![code review image](https://www.bounteous.com/sites/default/files/styles/default/public/insights/2019-06/previews/20190606_blog_code_review_limbo-_how_low_should_you_go_website.png?itok=9Ly27cK0) 
 
-# Code review with git & R
+# Code review with git & R :bowtie:
 This is a repository for an internal [SoBA lab](https://www.soba-lab.com/) tutorial on how to do code review with git with some slides and a little R-script to practice code review. On top of our own crash course, we are also showcasing some resources that we have found useful in learning how to use git with R. If in this short introduction you get confused about terms, refer to the glossary below!  
 
 For this introduction to code review with git and R, we are making a few assumptions.  
@@ -41,8 +41,8 @@ Here Rosanne and Anna will provide a live demonstration of reviewing a small R-S
 * 
 
 ## Glossary
-Git Bash = Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience. Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands. (from: [Atlassian](https://www.atlassian.com/git/tutorials/git-bash) )
+**Git Bash** = Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience. Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands. (from: [Atlassian](https://www.atlassian.com/git/tutorials/git-bash) )
 
-Shell = In computing, a shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface or graphical user interface, depending on a computer's role and particular operation. (from: [Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing)))  
+**Shell** = In computing, a shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface or graphical user interface, depending on a computer's role and particular operation. (from: [Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing)))  
 
 
