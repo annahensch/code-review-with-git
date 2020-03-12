@@ -30,19 +30,26 @@ Having been through a lot of online resources, we've found the following YouTube
 To get a better understanding of how git actually works, we strongly recommend this recent R-Ladies talk by Bruna Wundervald: http://brunaw.com/slides/git-workshop/git-workshop.html#1
 
 ## Some recommendations for code review in practice
-Talk by Lindsay Peterson: ...
-Tips by Angie Jones: https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews
+### Tips by Lindsay Peterson  
+* Our basic process is this: the 'default' branch should always be run-able, bug-free, and only include code that has been reviewed. Nobody is able to 'push' directly to the default branch. Instead, code authors work on changes in a separate named branch (e.g. if you're making some changes to your stimuli, the branch might be called "stim_changes"). Once a named branch is ready, the author creates a 'pull request' on Github which starts the code review process.  
+* It's worthwhile using a tool that will *check your code* for errors and check the quality of the code. We use 'Pylint' (https://www.pylint.org/) to help catch bugs in new code before it is integrated into the default branch.  
+* Have a *common formatting style* for your lab's code. It is easier to understand and review code if it is written in a consistent style. Again, use a tool to help with this. For us, all code must be run through 'Black' (https://github.com/psf/black) before it is submitted for a code review.  
+* Try to keep each review relatively small and limited to one issue/thing.  
+* Google's guidelines on how to do a code review are quite good: https://google.github.io/eng-practices/review/reviewer/  
+
+### Tips by Angie Jones
+* ...
+https://techbeacon.com/app-dev-testing/10-commandments-navigating-code-reviews
 
 ## Practical demo with Rosanne & Anna (live code review)
 Here Rosanne and Anna will provide a live demonstration of reviewing a small R-Script with git (can be found in this repo).  
-
-## Further reading
-* An interesting paper on improving reproducibility of scientific code (as opposed to developing production software): "Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions" by Benureau & Rougier (2018). Link: https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full
-* 
 
 ## Glossary
 **Git Bash** = Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience. Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands. (from: [Atlassian](https://www.atlassian.com/git/tutorials/git-bash) )
 
 **Shell** = In computing, a shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface or graphical user interface, depending on a computer's role and particular operation. (from: [Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing)))  
 
+## Further reading
+* An interesting paper on improving reproducibility of scientific code (as opposed to developing production software): "Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions" by Benureau & Rougier (2018). Link: https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full
+* 
 
