@@ -12,7 +12,11 @@ For this introduction to code review with git and R, we are making a few assumpt
 ## Why should you do code review?
 It is helpful to think of code review as being one small part in "transitioning your workflow". I first started thinking about this when I heard the talk of the same name by Danielle Navarro at the Research Bazaar Sydney in 2019: https://slides.com/djnavarro/workflow#/  
 
-Danielle is a computational cognitive scientist at the University of New South Wales. In her talk, she argues that to help future you, you can make some small changes in your scientific workflow. By using tools such as R (for data analysis), OSF (for pre-registration and data sharing), git/ Github (for version contorl & code review) and PsyArXiv (for sharing pre-prints), we can improve the overall quality of our science.
+Danielle is a computational cognitive scientist at the University of New South Wales (UNSW). In her talk, she argues that to help future you, you can make some small changes in your scientific workflow. By using tools such as R (for data analysis), OSF (for pre-registration and data sharing), git/ Github (for version contorl & code review) and PsyArXiv (for sharing pre-prints), we can improve the overall quality of our science.  
+
+Lindsay Peterson (also based at UNSW) argues that code review can enhance research training, collaboration, and communication (slides shared in repo, with permission). She says it enhances student involvement, while the supervisor still has oversight. It helps with learning how to code, and students gradually move from reviewing to authoring code as their skills improve. She also points out that this practice helps with producing readable code, as you are writing with your reviewer/ collaborator in mind.  
+
+Finally we get also: **BETTER, LESS BUGGY CODE**
 
 ## Intro to git - the unloved sibling of code review
 According to Danielle "learning git is one of the hardest steps. We all go through this stage... and that's OKAY!" (see link to slides above).  
