@@ -1,7 +1,7 @@
 ![code review image](https://www.bounteous.com/sites/default/files/styles/default/public/insights/2019-06/previews/20190606_blog_code_review_limbo-_how_low_should_you_go_website.png?itok=9Ly27cK0) 
 
 # Code review with git & R
-This is a repository for an internal [SoBA lab](https://www.soba-lab.com/) tutorial on how to do code review with git with some slides and a little R-script to practice code review. On top of our own crash course, we are also showcasing some resources that we have found useful in learning how to use git with R. If in this short introduction you get confused about terms, refer to the glossary below! :bowtie:  
+This is a repository for an internal ![SoBA lab](https://www.soba-lab.com/) tutorial on how to do code review with git with some slides and a little R-script to practice code review. On top of our own crash course, we are also showcasing some resources that we have found useful in learning how to use git with R. If in this short introduction you get confused about terms, refer to the glossary below! :bowtie:  
 
 For this introduction to code review with git and R, we are making a few assumptions.  
 * You use R/ R projects in your scientific practice.
