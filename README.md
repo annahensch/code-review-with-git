@@ -6,7 +6,6 @@ This is a repository for an internal [SoBA lab](https://www.soba-lab.com/) tutor
 For this introduction to code review with git and R, we are making a few assumptions.  
 * You use R/ R projects in your scientific practice.
 * You have heard of Github & using Github for version control.
-* You want to learn how to improve your workflow by reviewing the scientific code you produce.
 * You want to learn a brand new way of thinking about version control, code review and want to throw yourself into this adventure with reckless abandon. 
 
 ## Why should you do code review?
