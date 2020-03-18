@@ -58,3 +58,9 @@ Here Rosanne and Anna will provide a live demonstration of reviewing a small R-S
 * An interesting paper on improving reproducibility of scientific code (as opposed to developing production software): "Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions" by Benureau & Rougier (2018). Link: https://www.frontiersin.org/articles/10.3389/fninf.2017.00069/full
 * Git cheat sheet: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet 
 * "Git light" - using git directly in RStudio: http://www.geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/
+
+## Some further reading (added by Ruud so he will win the git-ready-online-team-sobots-award-of-the-week)
+* This is the most insightful description of the git terms I have come across: https://speakerdeck.com/alicebartlett/git-for-humans
+* Some more useful and helpful links in this Twitter thread:
+https://twitter.com/dgkeyes/status/1232317101471219714?s=20
+
